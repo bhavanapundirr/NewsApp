@@ -1,0 +1,73 @@
+
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "nrk",
+    "name": "NRK"
+    },
+    "author": "NRK",
+    "title": "Vinterstudio – NRK Sport",
+    "description": "Få med deg spenningen, stemningen og dramatikken i NRKs vinterstudio! Delta i vår sportsprat, få resultatene og siste nytt her.",
+    "url": "https://www.nrk.no/sport/vinterstudio/?vis=sendeplan",
+    "urlToImage": "https://gfx.nrk.no/fmUBOuviKitG3IrS-u9Ebw1mhhPvYaAWlLvjZIHAfc0w.png",
+    "publishedAt": "2022-01-09T07:07:21.1642806Z",
+    "content": "18. desember2021kl.12:01Marit Bjørgen og Team Ragde-Charge ble trukket frem som favoritter før lørdagens lagtempo i Ski Classics. Og Bjørgen og lagvenninne Anniken Gjerde Alnæs tok ledelsen fra start… [+1122 chars]"
+    },
+    {
+    "source": {
+    "id": "le-monde",
+    "name": "Le Monde"
+    },
+    "author": "Denis Cosnard",
+    "title": "Gestion, transports, sécurité… En Ile-de-France, la méthode Pécresse à l’épreuve des faits",
+    "description": "A la tête de la première région française depuis 2015, la candidate LR à la présidentielle multiplie les annonces et les projets et en fait une vitrine pour ses ambitions nationales. Ses opposants dénoncent une réalité moins étincelante.",
+    "url": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/01/09/gestion-transports-securite-en-ile-de-france-la-methode-pecresse-a-l-epreuve-des-faits_6108733_6059010.html",
+    "urlToImage": "https://img.lemde.fr/2022/01/04/0/0/8192/4096/1440/720/60/0/4ad69c2_5275321-01-06.jpg",
+    "publishedAt": "2022-01-09T01:21:38Z",
+    "content": "La candidate à lélection présidentielle pour Les Républicains (LR), Valérie Pécresse, au siège de son QG de campagne, à Paris, le 4 janvier 2022. LUDOVIC MARIN / AFP Ils nen peuvent plus. Aux Sept-M… [+2946 chars]La candidate à lélection présidentielle pour Les Républicains (LR), Valérie Pécresse, au siège de son QG de campagne, à Paris, le 4 janvier 2022. LUDOVIC MARIN / AFP Ils nen peuvent plus. Aux Sept-M… [+2946 chars]"
+
+    },
+    {
+    "source": {
+    "id": "the-globe-and-mail",
+    "name": "The Globe And Mail"
+    },
+    "author": "Salmaan Farooqui",
+    "title": "Quebec’s expansion of COVID-19 vaccine passports to liquor, pot stores likely sound, legal experts say",
+    "description": "The province’s new measure may still draw challenges from groups opposed to vaccine mandates",
+    "url": "https://www.theglobeandmail.com/canada/article-quebecs-expansion-of-covid-19-vaccine-passports-to-liquor-pot-stores/",
+    "urlToImage": "https://www.theglobeandmail.com/resizer/2z_g016Gw4xCOUIaMEWpvSjbQ_c=/1200x889/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/6UAQZXCIWJPZXPMFFYEZRSVNB4.JPG",
+    "publishedAt": "2022-01-08T23:40:00Z",
+    "content": "A customer leaves an SAQ outlet Thursday, the same day the Quebec government announced that vaccine passports will be required to enter all government liquor stores and cannabis outlets as of Jan. 18… [+5876 chars]"
+    },
+    {
+    "source": {
+    "id": "lequipe",
+    "name": "L'equipe"
+    },
+    "author": "L'EQUIPE",
+    "title": "Le flash sports du dimanche 9 janvier",
+    "description": "Retrouvez toute l'actualité sportive dans votre flash quotidien.",
+    "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-dimanche-9-janvier/1309354",
+    "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001589378/0:0,1998:1332-640-427-75/3e258.jpg",
+    "publishedAt": "2022-01-08T23:05:00+00:00",
+    "content": "Lens vient à bout de Rennes grâce à un but tardif de Wesley Saïd (1-0) ; Face à un PSG diminué en attaque, l'OL espère lancer au mieux son année 2022 ; Gaël Monfils se qualifie pour la finale du tour… [+210 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-times",
+    "name": "The Washington Times"
+    },
+    "author": "The Washington Times http://www.washingtontimes.com",
+    "title": "Latest Quizzes",
+    "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+    "url": "https://www.washingtontimes.com/quiz/",
+    "urlToImage": null,
+    "publishedAt": "2021-02-10T03:52:37.2719772Z",
+    "content": "Featured Quizzes Attention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge. Shares Name these legendary c… [+32652 chars]"
+    }
+    ]
+    }
